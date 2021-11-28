@@ -1,0 +1,19 @@
+
+/d/University/students_labs/bash_terminal/951036/feryuza/lab3/individual_ex/files/file2.txt | file2.txt | 188 bytes
+
+/d/University/students_labs/bash_terminal/951036/feryuza/lab3/individual_ex/files/file_with_plain_text.txt | file_with_plain_text.txt | 66 bytes
+
+/d/University/students_labs/bash_terminal/951036/feryuza/lab3/individual_ex/files/file_wo_extension | file_wo_extension | 30 bytes
+
+/d/University/students_labs/bash_terminal/951036/feryuza/lab3/individual_ex/files/img3.jpg | img3.jpg | 0 bytes
+
+/d/University/students_labs/bash_terminal/951036/feryuza/lab3/individual_ex/files/inner_dir/new_file.txt | new_file.txt | 10 bytes
+
+/d/University/students_labs/bash_terminal/951036/feryuza/lab3/individual_ex/files/inner_dir/new_file_1.txt | new_file_1.txt | 16 bytes
+
+/d/University/students_labs/bash_terminal/951036/feryuza/lab3/individual_ex/files/inner_dir/new_file_2.txt | new_file_2.txt | 28 bytes
+
+/d/University/students_labs/bash_terminal/951036/feryuza/lab3/individual_ex/files/inner_dir/one_more_inner_dir/the_most_deep_file.txt | the_most_deep_file.txt | 30 bytes
+
+/d/University/students_labs/bash_terminal/951036/feryuza/lab3/individual_ex/files/inner_dir_2/file.docx | file.docx | 10 bytes
+
